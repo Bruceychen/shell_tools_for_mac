@@ -1,4 +1,3 @@
 # shell_tools_for_mac
-some shell tools on personal Macbook
-
-All works on macOS Monterey v12.5.1
+Shell tools on my personal MacBook. 
+Everything is running on macOS Monterey v12.5.1.
